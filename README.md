@@ -78,9 +78,20 @@ That's it — your app is live!
 5. Download the report for your finance team.
 
 ---
+📸 Screenshots
 
+**1. Dashboard Interface – Upload & Extraction**
+![image](https://github.com/user-attachments/assets/b9348ae3-197e-451b-9f0e-8a3a78ef9f95)
+
+**2. Invoice vs PO Comparison Result**
+![image](https://github.com/user-attachments/assets/e4e7b200-ee21-4bde-8636-bb62bcad20d8)
+
+**3. AI Chatbot for Document Explanation**
+![image](https://github.com/user-attachments/assets/bf62a53c-6bd6-4b91-b167-5048d5b31651)
+
+
+---
 ## 🛠️ Tech Stack
-
 - 🐍 Python
 - 🎈 Streamlit
 - 📄 PyMuPDF, pdfplumber, pytesseract
